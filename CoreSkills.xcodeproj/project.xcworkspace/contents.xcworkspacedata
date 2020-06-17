@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ios-development-essentials.xcodeproj">
+      location = "self:/Users/anderson/Documents/ios-development-essentials/CoreSkills.xcodeproj">
    </FileRef>
 </Workspace>
